@@ -1,0 +1,24 @@
+{
+  "name": "promise-pls",
+  "version": "0.0.1",
+  "description": "Return an initialised promise, along with its resolve & reject methods",
+  "main": "promise-pls.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bhallstein/promise-pls.git"
+  },
+  "keywords": [
+    "js",
+    "es6",
+    "promise"
+  ],
+  "author": "Ben Hall <benhall@brandwatch.com> (https://ben.am/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bhallstein/promise-pls/issues"
+  },
+  "homepage": "https://github.com/bhallstein/promise-pls"
+}

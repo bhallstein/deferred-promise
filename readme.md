@@ -4,7 +4,7 @@ Return an initialised promise, along with its resolve & reject methods.
 
 ## Install:
 
-`npm i promise-pls`
+`npm i promise-pls --save`
 
 
 ## Usage:
